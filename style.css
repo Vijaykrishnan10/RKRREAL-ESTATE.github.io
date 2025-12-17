@@ -1,0 +1,110 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f8f7f3;
+}
+
+.header {
+  display: flex;
+  gap: 10px;
+  padding: 15px;
+  background: white;
+  align-items: center;
+}
+
+.logo {
+  background: #f5b400;
+  padding: 12px;
+  font-weight: bold;
+  border-radius: 8px;
+}
+
+.hero {
+  padding: 30px;
+  background: linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,.4)),
+              url("images/hero.jpg");
+  background-size: cover;
+  color: white;
+}
+
+.hero span {
+  color: #f5b400;
+}
+
+.badge {
+  background: #f5b400;
+  padding: 6px 12px;
+  border-radius: 20px;
+  display: inline-block;
+}
+
+.search-box {
+  background: white;
+  padding: 15px;
+  border-radius: 12px;
+  margin-top: 20px;
+}
+
+.search-box input,
+.search-box select,
+.search-box button {
+  width: 100%;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.search-box button {
+  background: #f5b400;
+  border: none;
+  font-weight: bold;
+}
+
+.why, .properties {
+  padding: 25px;
+  text-align: center;
+}
+
+.cards {
+  display: grid;
+  gap: 15px;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+.property {
+  background: white;
+  margin-top: 15px;
+  padding: 15px;
+  border-radius: 12px;
+  text-align: left;
+}
+
+.property img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.cta {
+  background: #1e2d44;
+  color: white;
+  padding: 30px;
+  text-align: center;
+}
+
+.cta button {
+  background: #f5b400;
+  border: none;
+  padding: 12px 20px;
+  font-weight: bold;
+}
+
+footer {
+  background: #0f1a2c;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
