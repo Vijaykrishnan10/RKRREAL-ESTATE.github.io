@@ -8,8 +8,8 @@ const properties = [
     approval: "DTCP Approved",
     price: "₹30 Lakhs",
     images: [
-      "image/land1.jpg",
-      "image/building1.jpg",
+      "image/lands.jpg",
+      "image/buildings.jpg",
       "image/download.jpeg"
     ],
     map: "https://maps.google.com/?q=Thekkalur"
