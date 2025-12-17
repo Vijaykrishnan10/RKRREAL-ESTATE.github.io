@@ -17,7 +17,7 @@ function searchProperties() {
   }
 
   filtered.forEach(p => {
-    let imgs = p.images.map(i => `<img src="${img}">`).join("");
+    let imgs = p.images.map(i => `<img src="${i}">`).join("");
 
     list.innerHTML += `
       <div class="property">
