@@ -31,7 +31,7 @@ function searchProperties() {
         <p><b>Price:</b> ${p.price}</p>
 
         <a class="whatsapp"
-           href="https://wa.me/919876543210?text=I'm interested in ${p.title}">
+           href="https://wa.me/916382420413?text=I'm interested in ${p.title}">
            Enquire on WhatsApp
         </a>
 
