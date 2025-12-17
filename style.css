@@ -11,7 +11,7 @@ body {
   background: white;
   align-items: center;
   background: linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,.4)),
-              url("image/download1.jpg");
+              url("Image/download1.jpg");
   background-size: cover;
   color: white;
 }
@@ -26,7 +26,7 @@ body {
 .hero {
   padding: 30px;
   background: linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,.4)),
-              url("image/download.jpeg");
+              url("Image/download.jpeg");
   background-size: cover;
   color: white;
 }
