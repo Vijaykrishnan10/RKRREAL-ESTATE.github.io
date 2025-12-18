@@ -33,7 +33,7 @@ function searchProperties() {
         <a class="whatsapp"
            href="https://wa.me/916382420413?text=I'm interested in ${p.title}">
            Enquire on WhatsApp
-        </a>
+        </a><b>
 
         <a class="map" href="${p.map}" target="_blank">
           📍 View on Google Maps
